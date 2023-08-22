@@ -12,7 +12,7 @@ import (
 	"github.com/joho/godotenv"
 )
 
-const baseURL = "https://erp.spaceai.io/api/resource/Purchase Order"
+const baseURL = "https://*****>*****.***/api/resource/Purchase Order"
 
 type Response struct {
 	Data []struct {
